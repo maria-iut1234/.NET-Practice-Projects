@@ -1,0 +1,12 @@
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\CRS_ClassLibrary\bin\Debug\CRS_ClassLibrary.dll
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\CRS_ClassLibrary\bin\Debug\CRS_ClassLibrary.pdb
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\CRS_ClassLibrary\obj\Debug\CRS_ClassLibrary.csproj.AssemblyReference.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\CRS_ClassLibrary\obj\Debug\CRS_ClassLibrary.csproj.CoreCompileInputs.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\CRS_ClassLibrary\obj\Debug\CRS_ClassLibrary.dll
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\CRS_ClassLibrary\obj\Debug\CRS_ClassLibrary.pdb
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Car Rental System\CRS_ClassLibrary\bin\Debug\CRS_ClassLibrary.dll
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Car Rental System\CRS_ClassLibrary\bin\Debug\CRS_ClassLibrary.pdb
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Car Rental System\CRS_ClassLibrary\obj\Debug\CRS_ClassLibrary.csproj.AssemblyReference.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Car Rental System\CRS_ClassLibrary\obj\Debug\CRS_ClassLibrary.csproj.CoreCompileInputs.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Car Rental System\CRS_ClassLibrary\obj\Debug\CRS_ClassLibrary.dll
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Car Rental System\CRS_ClassLibrary\obj\Debug\CRS_ClassLibrary.pdb
