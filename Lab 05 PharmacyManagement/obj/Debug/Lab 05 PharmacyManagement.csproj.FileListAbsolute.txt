@@ -1,0 +1,14 @@
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\bin\Debug\Lab 05 PharmacyManagement.exe.config
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\bin\Debug\Lab 05 PharmacyManagement.exe
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\bin\Debug\Lab 05 PharmacyManagement.pdb
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\obj\Debug\Lab 05 PharmacyManagement.csproj.AssemblyReference.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\obj\Debug\Lab 05 PharmacyManagement.csproj.SuggestedBindingRedirects.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\obj\Debug\Lab_05_PharmacyManagement.Form1.resources
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\obj\Debug\Lab_05_PharmacyManagement.Properties.Resources.resources
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\obj\Debug\Lab 05 PharmacyManagement.csproj.GenerateResource.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\obj\Debug\Lab 05 PharmacyManagement.csproj.CoreCompileInputs.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\obj\Debug\Lab 05 PharmacyManagement.exe
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\obj\Debug\Lab 05 PharmacyManagement.pdb
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\bin\Debug\ClassLibraryPharmacyManagement.dll
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\bin\Debug\ClassLibraryPharmacyManagement.pdb
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\obj\Debug\Lab 05 PharmacyManagement.csproj.CopyComplete

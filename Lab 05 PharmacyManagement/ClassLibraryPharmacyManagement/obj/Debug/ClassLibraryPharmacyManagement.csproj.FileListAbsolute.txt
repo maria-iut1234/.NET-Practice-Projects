@@ -1,0 +1,6 @@
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\ClassLibraryPharmacyManagement\bin\Debug\ClassLibraryPharmacyManagement.dll
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\ClassLibraryPharmacyManagement\bin\Debug\ClassLibraryPharmacyManagement.pdb
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\ClassLibraryPharmacyManagement\obj\Debug\ClassLibraryPharmacyManagement.csproj.AssemblyReference.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\ClassLibraryPharmacyManagement\obj\Debug\ClassLibraryPharmacyManagement.csproj.CoreCompileInputs.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\ClassLibraryPharmacyManagement\obj\Debug\ClassLibraryPharmacyManagement.dll
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 05 PharmacyManagement\ClassLibraryPharmacyManagement\obj\Debug\ClassLibraryPharmacyManagement.pdb
