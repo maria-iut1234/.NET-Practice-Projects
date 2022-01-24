@@ -1,0 +1,22 @@
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System\bin\Debug\Lab 07 LMS System.exe.config
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System\bin\Debug\Lab 07 LMS System.exe
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System\bin\Debug\Lab 07 LMS System.pdb
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System\obj\Debug\Lab 07 LMS System.csproj.AssemblyReference.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System\obj\Debug\Lab 07 LMS System.csproj.SuggestedBindingRedirects.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System\obj\Debug\Lab_07_LMS_System.Form1.resources
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System\obj\Debug\Lab_07_LMS_System.Properties.Resources.resources
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System\obj\Debug\Lab 07 LMS System.csproj.GenerateResource.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System\obj\Debug\Lab 07 LMS System.csproj.CoreCompileInputs.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System\obj\Debug\Lab 07 LMS System.exe
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System\obj\Debug\Lab 07 LMS System.pdb
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System (Odd)\bin\Debug\Lab 07 LMS System.exe.config
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System (Odd)\bin\Debug\Lab 07 LMS System.exe
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System (Odd)\bin\Debug\Lab 07 LMS System.pdb
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System (Odd)\obj\Debug\Lab 07 LMS System.csproj.AssemblyReference.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System (Odd)\obj\Debug\Lab 07 LMS System.csproj.SuggestedBindingRedirects.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System (Odd)\obj\Debug\Lab_07_LMS_System.Form1.resources
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System (Odd)\obj\Debug\Lab_07_LMS_System.Properties.Resources.resources
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System (Odd)\obj\Debug\Lab 07 LMS System.csproj.GenerateResource.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System (Odd)\obj\Debug\Lab 07 LMS System.csproj.CoreCompileInputs.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System (Odd)\obj\Debug\Lab 07 LMS System.exe
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 LMS System (Odd)\obj\Debug\Lab 07 LMS System.pdb
