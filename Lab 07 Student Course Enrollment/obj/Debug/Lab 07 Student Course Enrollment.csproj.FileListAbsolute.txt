@@ -1,0 +1,11 @@
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 Student Course Enrollment\bin\Debug\Lab 07 Student Course Enrollment.exe.config
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 Student Course Enrollment\bin\Debug\Lab 07 Student Course Enrollment.exe
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 Student Course Enrollment\bin\Debug\Lab 07 Student Course Enrollment.pdb
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 Student Course Enrollment\obj\Debug\Lab 07 Student Course Enrollment.csproj.AssemblyReference.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 Student Course Enrollment\obj\Debug\Lab 07 Student Course Enrollment.csproj.SuggestedBindingRedirects.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 Student Course Enrollment\obj\Debug\Lab_07_Student_Course_Enrollment.Form1.resources
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 Student Course Enrollment\obj\Debug\Lab_07_Student_Course_Enrollment.Properties.Resources.resources
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 Student Course Enrollment\obj\Debug\Lab 07 Student Course Enrollment.csproj.GenerateResource.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 Student Course Enrollment\obj\Debug\Lab 07 Student Course Enrollment.csproj.CoreCompileInputs.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 Student Course Enrollment\obj\Debug\Lab 07 Student Course Enrollment.exe
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 07 Student Course Enrollment\obj\Debug\Lab 07 Student Course Enrollment.pdb
