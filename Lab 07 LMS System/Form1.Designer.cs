@@ -63,7 +63,6 @@
             this.listBox_student = new System.Windows.Forms.ListBox();
             this.panel3 = new System.Windows.Forms.Panel();
             this.comboBox_student = new System.Windows.Forms.ComboBox();
-            this.label14 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -427,21 +426,11 @@
             this.comboBox_student.Size = new System.Drawing.Size(177, 24);
             this.comboBox_student.TabIndex = 26;
             // 
-            // label14
-            // 
-            this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(410, 342);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(51, 16);
-            this.label14.TabIndex = 33;
-            this.label14.Text = "label14";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1162, 667);
-            this.Controls.Add(this.label14);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
@@ -455,7 +444,6 @@
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -496,7 +484,6 @@
         private System.Windows.Forms.TextBox textBox_course_code;
         private System.Windows.Forms.ComboBox comboBox_course_semester;
         private System.Windows.Forms.ComboBox comboBox_student;
-        private System.Windows.Forms.Label label14;
     }
 }
 

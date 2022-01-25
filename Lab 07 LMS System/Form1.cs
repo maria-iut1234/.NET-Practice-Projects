@@ -208,11 +208,20 @@ namespace Lab_07_LMS_System
                                 }
                             }
                         }
+
+                        break;
                     }
-                    break;
+                   
                 }
 
-                comboBox_student.Items.Add(student_name);
+                if(comboBox_student.Items.Contains(student_name))
+                {
+                    ;
+                }
+                else
+                {
+                    comboBox_student.Items.Add(student_name);
+                }
 
                 MessageBox.Show("Student has been added successfully");
             }
@@ -237,12 +246,10 @@ namespace Lab_07_LMS_System
                         listBox_student.Items.Add("Semester: " + s.getStudentSemester());
                         listBox_student.Items.Add("Courses:");
 
-                        //for(int i=0; i<s.getCourseList().Count; i++)
-                        //{
-                        //    listBox_student.Items.Add(s.getCourseList()[i].getCourseInfo());
-                        //}
-
-                        listBox_student.Items.Add(s.getCourseList().Count);
+                        for(int i=0; i<s.getCourseList().Count; i++)
+                        {
+                            listBox_student.Items.Add(s.getCourseList()[i].getCourseInfo());
+                        }
 
                         break;
                     }
