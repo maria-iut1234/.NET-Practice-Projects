@@ -17,28 +17,18 @@ namespace Grades_App
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void CalcGrade(object sender, EventArgs e)
         {
-
-        }
-
-        private void label7_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            if( text_name.Text != "" &&
-                text_id.Text != "" &&
-                text_sem.Text != "" &&
-                text_attendance.Text != "" &&
-                text_mid.Text != "" &&
-                text_final.Text != "" &&
-                text_quizI.Text != "" &&
-                text_quizII.Text != "" &&
-                text_quizIII.Text != "" &&
-                text_quizIV.Text != "")    
+            if (text_name.Text != "" &&
+               text_id.Text != "" &&
+               text_sem.Text != "" &&
+               text_attendance.Text != "" &&
+               text_mid.Text != "" &&
+               text_final.Text != "" &&
+               text_quizI.Text != "" &&
+               text_quizII.Text != "" &&
+               text_quizIII.Text != "" &&
+               text_quizIV.Text != "")
             {
                 double attendance = Convert.ToDouble(text_attendance.Text);
                 attendance = Math.Round((attendance / 28) * 30, MidpointRounding.AwayFromZero);
@@ -79,7 +69,6 @@ namespace Grades_App
             {
                 MessageBox.Show("Error: Input Field Empty!");
             }
-            
 
         }
     }

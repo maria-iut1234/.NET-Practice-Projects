@@ -59,7 +59,7 @@
             this.label19 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.calcGrade = new System.Windows.Forms.Button();
+            this.button = new System.Windows.Forms.Button();
             this.label_result = new System.Windows.Forms.Label();
             this.label_attendance = new System.Windows.Forms.Label();
             this.label_mid = new System.Windows.Forms.Label();
@@ -161,7 +161,6 @@
             this.label7.Size = new System.Drawing.Size(134, 36);
             this.label7.TabIndex = 9;
             this.label7.Text = "No. of attended \r\nclasses (Out of 28)\r\n";
-            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // label8
             // 
@@ -351,18 +350,18 @@
             this.pictureBox2.TabIndex = 33;
             this.pictureBox2.TabStop = false;
             // 
-            // calcGrade
+            // button
             // 
-            this.calcGrade.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(113)))), ((int)(((byte)(208)))));
-            this.calcGrade.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.calcGrade.ForeColor = System.Drawing.SystemColors.Control;
-            this.calcGrade.Location = new System.Drawing.Point(476, 98);
-            this.calcGrade.Name = "calcGrade";
-            this.calcGrade.Size = new System.Drawing.Size(153, 89);
-            this.calcGrade.TabIndex = 34;
-            this.calcGrade.Text = "Calculate Grade";
-            this.calcGrade.UseVisualStyleBackColor = false;
-            this.calcGrade.Click += new System.EventHandler(this.button1_Click);
+            this.button.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(113)))), ((int)(((byte)(208)))));
+            this.button.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button.ForeColor = System.Drawing.SystemColors.Control;
+            this.button.Location = new System.Drawing.Point(476, 98);
+            this.button.Name = "button";
+            this.button.Size = new System.Drawing.Size(153, 89);
+            this.button.TabIndex = 34;
+            this.button.Text = "Calculate Grade";
+            this.button.UseVisualStyleBackColor = false;
+            this.button.Click += new System.EventHandler(this.CalcGrade);
             // 
             // label_result
             // 
@@ -453,7 +452,7 @@
             this.Controls.Add(this.label_mid);
             this.Controls.Add(this.label_attendance);
             this.Controls.Add(this.label_result);
-            this.Controls.Add(this.calcGrade);
+            this.Controls.Add(this.button);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label19);
@@ -487,7 +486,6 @@
             this.Controls.Add(this.label1);
             this.Name = "GradesApp";
             this.Text = " GradesApp";
-            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
@@ -528,7 +526,7 @@
         private System.Windows.Forms.Label label19;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox pictureBox2;
-        private System.Windows.Forms.Button calcGrade;
+        private System.Windows.Forms.Button button;
         private System.Windows.Forms.Label label_result;
         private System.Windows.Forms.Label label_attendance;
         private System.Windows.Forms.Label label_mid;

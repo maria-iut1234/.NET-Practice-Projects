@@ -17,36 +17,20 @@ namespace EmployeeManagement
         {
             this.student_id = student_id;
         }
-        public int get_std_ID(int student_id)
-        {
-            return this.student_id;
-        }
 
         public void set_std_name(string student_name)
         {
             this.student_name = student_name;
-        }
-        public string get_std_name(string student_name)
-        {
-            return this.student_name;
         }
 
         public void set_std_dept(string student_dept)
         {
             this.student_dept = student_dept;
         }
-        public string get_std_dept(string student_dept)
-        {
-            return this.student_dept;
-        }
 
         public void set_std_sem(string student_sem)
         {
             this.student_sem = student_sem;
-        }
-        public string get_std_sem(string student_sem)
-        {
-            return this.student_sem;
         }
 
         public string get_student_info()
