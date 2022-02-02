@@ -1,0 +1,11 @@
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Calculator\bin\Debug\Calculator.exe.config
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Calculator\bin\Debug\Calculator.exe
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Calculator\bin\Debug\Calculator.pdb
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Calculator\obj\Debug\Calculator.exe
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Calculator\obj\Debug\Calculator.pdb
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Calculator\obj\Debug\Calculator.Calculator.resources
