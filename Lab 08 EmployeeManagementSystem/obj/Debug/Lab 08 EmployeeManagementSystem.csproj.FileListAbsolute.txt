@@ -1,0 +1,11 @@
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 08 EmployeeManagementSystem\bin\Debug\Lab 08 EmployeeManagementSystem.exe.config
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 08 EmployeeManagementSystem\bin\Debug\Lab 08 EmployeeManagementSystem.exe
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 08 EmployeeManagementSystem\bin\Debug\Lab 08 EmployeeManagementSystem.pdb
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 08 EmployeeManagementSystem\obj\Debug\Lab 08 EmployeeManagementSystem.csproj.AssemblyReference.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 08 EmployeeManagementSystem\obj\Debug\Lab 08 EmployeeManagementSystem.csproj.SuggestedBindingRedirects.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 08 EmployeeManagementSystem\obj\Debug\Lab_08_EmployeeManagementSystem.Form1.resources
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 08 EmployeeManagementSystem\obj\Debug\Lab_08_EmployeeManagementSystem.Properties.Resources.resources
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 08 EmployeeManagementSystem\obj\Debug\Lab 08 EmployeeManagementSystem.csproj.GenerateResource.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 08 EmployeeManagementSystem\obj\Debug\Lab 08 EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 08 EmployeeManagementSystem\obj\Debug\Lab 08 EmployeeManagementSystem.exe
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 08 EmployeeManagementSystem\obj\Debug\Lab 08 EmployeeManagementSystem.pdb
