@@ -1,0 +1,11 @@
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 10  FileHandling (Even)\bin\Debug\Lab 10  FileHandling (Even).exe.config
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 10  FileHandling (Even)\bin\Debug\Lab 10  FileHandling (Even).exe
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 10  FileHandling (Even)\bin\Debug\Lab 10  FileHandling (Even).pdb
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 10  FileHandling (Even)\obj\Debug\Lab 10  FileHandling (Even).csproj.AssemblyReference.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 10  FileHandling (Even)\obj\Debug\Lab 10  FileHandling (Even).csproj.SuggestedBindingRedirects.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 10  FileHandling (Even)\obj\Debug\Lab_10__FileHandling__Even_.Form1.resources
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 10  FileHandling (Even)\obj\Debug\Lab_10__FileHandling__Even_.Properties.Resources.resources
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 10  FileHandling (Even)\obj\Debug\Lab 10  FileHandling (Even).csproj.GenerateResource.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 10  FileHandling (Even)\obj\Debug\Lab 10  FileHandling (Even).csproj.CoreCompileInputs.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 10  FileHandling (Even)\obj\Debug\Lab 10  FileHandling (Even).exe
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 10  FileHandling (Even)\obj\Debug\Lab 10  FileHandling (Even).pdb

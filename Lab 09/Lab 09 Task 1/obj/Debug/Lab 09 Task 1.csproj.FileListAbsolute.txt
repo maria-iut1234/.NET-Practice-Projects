@@ -1,0 +1,11 @@
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 09 Task 1\bin\Debug\Lab 09 Task 1.exe.config
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 09 Task 1\bin\Debug\Lab 09 Task 1.exe
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 09 Task 1\bin\Debug\Lab 09 Task 1.pdb
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 09 Task 1\obj\Debug\Lab 09 Task 1.csproj.AssemblyReference.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 09 Task 1\obj\Debug\Lab 09 Task 1.csproj.SuggestedBindingRedirects.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 09 Task 1\obj\Debug\Lab_09_Task_1.Form1.resources
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 09 Task 1\obj\Debug\Lab_09_Task_1.Properties.Resources.resources
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 09 Task 1\obj\Debug\Lab 09 Task 1.csproj.GenerateResource.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 09 Task 1\obj\Debug\Lab 09 Task 1.csproj.CoreCompileInputs.cache
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 09 Task 1\obj\Debug\Lab 09 Task 1.exe
+E:\IUT Classes\2nd Semester\SWE 4202 Object Oriented Concepts I Lab\Lab 09 Task 1\obj\Debug\Lab 09 Task 1.pdb

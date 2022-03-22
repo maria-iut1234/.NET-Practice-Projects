@@ -1,0 +1,82 @@
+3/4/2022 9:46:37 AM	minna_amigon@yahoo.com	
+Found
+
+First Name: Minna
+Last Name: Amigon
+Address: 2371 Jerrold Ave
+City: Kulpsville
+County: Montgomery
+State: PA
+Zip: 19443
+Phone1: 215-874-1229
+Phone: 215-422-8694
+Email: minna_amigon@yahoo.com
+
+3/4/2022 9:49:42 AM	minna_amigon@yahoo.com	
+Found
+
+First Name: Minna
+Last Name: Amigon
+Address: 2371 Jerrold Ave
+City: Kulpsville
+County: Montgomery
+State: PA
+Zip: 19443
+Phone1: 215-874-1229
+Phone: 215-422-8694
+Email: minna_amigon@yahoo.com
+
+3/4/2022 9:49:52 AM	lpaprocki@hotmail.com	
+Found
+
+First Name: Lenna
+Last Name: Paprocki
+Address: 639 Main St
+City: Anchorage
+County: Anchorage
+State: AK
+Zip: 99501
+Phone1: 907-385-4412
+Phone: 907-921-2010
+Email: lpaprocki@hotmail.com
+
+3/4/2022 9:49:58 AM	a@ha	
+Not Found
+
+3/4/2022 9:51:55 AM	sdwsd	
+Not Found
+
+3/4/2022 2:01:51 PM	lpaprocki@hotmail.com	
+Found
+
+First Name: Lenna
+Last Name: Paprocki
+Address: 639 Main St
+City: Anchorage
+County: Anchorage
+State: AK
+Zip: 99501
+Phone1: 907-385-4412
+Phone: 907-921-2010
+Email: lpaprocki@hotmail.com
+
+3/4/2022 2:01:59 PM	a@sodjdoisadj	
+Not Found
+
+3/4/2022 2:08:13 PM	lpaprocki@hotmail.com	
+Found
+
+First Name: Lenna
+Last Name: Paprocki
+Address: 639 Main St
+City: Anchorage
+County: Anchorage
+State: AK
+Zip: 99501
+Phone1: 907-385-4412
+Phone: 907-921-2010
+Email: lpaprocki@hotmail.com
+
+3/4/2022 2:08:28 PM	sami@yahoo.com	
+Not Found
+
